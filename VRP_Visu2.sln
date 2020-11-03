@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRP_Visu2", "VRP_Visu2\VRP_Visu2.csproj", "{AF0B31DD-FAE6-43B1-A4BB-334A27BEAA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0B31DD-FAE6-43B1-A4BB-334A27BEAA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0B31DD-FAE6-43B1-A4BB-334A27BEAA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0B31DD-FAE6-43B1-A4BB-334A27BEAA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0B31DD-FAE6-43B1-A4BB-334A27BEAA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0F7472-10A1-4840-94A1-A7C509E29433}
+	EndGlobalSection
+EndGlobal
